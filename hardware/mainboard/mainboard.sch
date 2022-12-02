@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "LiveG Proton mainboard"
+Date "2022-12-02"
+Rev "0.1.0"
+Comp "LiveG Technologies"
+Comment1 "Copyright © LiveG. All Rights Reserved."
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "https://liveg.tech/proton"
+Comment4 "Licensed by the LiveG Open-Source Licence, which can be found at LICENCE.md."
 $EndDescr
 Connection ~ 1950 1700
 Wire Wire Line
